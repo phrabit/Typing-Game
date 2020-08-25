@@ -1,0 +1,11 @@
+@import "reset.css";
+@import "game.css";
+
+@font-face{
+  src: url(../fonts/NanumBarunpenR.ttf);
+  font-family: nanum;
+}
+
+html, body{
+  font-family: nanum;
+}
